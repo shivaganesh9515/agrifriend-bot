@@ -27,7 +27,7 @@ root@your-server:~$
 Copy and paste this command, then press **Enter**:
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/agrifriend-bot.git
+git clone https://github.com/shivaganesh9515/agrifriend-bot.git
 cd agrifriend-bot
 ```
 
